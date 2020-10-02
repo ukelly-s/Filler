@@ -21,7 +21,7 @@ The virtual machine moderates a game. It needs [a map file](/working_draft/maps)
 
 The purpose of the project is to create own bot.
 
-A name of the created bot is `vbrazhni.filler`. It will be created after `make` command and placed at the root of the directory.
+A name of the created bot is `ukelly.filler`. It will be created after `make` command and placed at the root of the directory.
 
 You can run the virtual machine with the following command:
 
