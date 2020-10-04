@@ -42,7 +42,7 @@ valgrind --leak-check=full ./PLAYER_FILE &>trace
 The next step is to copy the data (that the player needs for one iteration) to the console:
 
 ```
-Ster 1
+[Ster 1]
 $$$ exec p1 : [players/ukelly.filler]
 Plateau 15 17:
     01234567890123456
@@ -66,7 +66,7 @@ Piece 1 3:
 [Enter]
 ```
 ```
-Ster 2
+[Ster 2]
 Plateau 15 17:
     01234567890123456
 000 .................
@@ -92,7 +92,7 @@ Piece 1 2:
 ...
 
 ```
-Ster n
+[Ster n]
 Plateau 15 17:
     01234567890123456
 000 ooOOOOOOOOOOOOOOO
