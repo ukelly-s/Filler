@@ -39,7 +39,7 @@ Run this command:
 valgrind --leak-check=full ./PLAYER_FILE &>trace
 ```
 
-The next step is to copy the data (player needs for one iteration) to the console:
+The next step is to copy the data (that the player needs for one iteration) to the console:
 
 ```
 Ster 1
