@@ -33,7 +33,7 @@ You can run the virtual machine with the following command:
 
 Method №1
 
-Following command:
+Run this command:
 
 ```
 valgrind --leak-check=full ./PLAYER_FILE &>trace
